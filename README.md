@@ -4,7 +4,7 @@ A repository for the Game Design documentation of College of the Dead. This is 2
 Unfortunately the game's source files cannot be viewed here, however links to a demo and the design documentation are shown below.
 
 ## Links
-- [Game Design Documentation](Game Design Document - College of the Dead.pdf)
+- Click 'Game Design Document' above to view in .pdf format
 - [View demo of the game on YouTube](https://www.youtube.com/watch?v=W5G0OL51-0c)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=W5G0OL51-0c
